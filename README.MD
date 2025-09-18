@@ -17,7 +17,7 @@
 - Segui o passo-a-passo do curso [link](https://www.udemy.com/course/react-para-iniciantes-free/)
 - Repositório do curso [link](https://github.com/brunojppb/curso-react-para-iniciantes) 
 - Conceitos explorados
-    -Introdução ao JSX
+    - Introdução ao JSX
     - Renderizando Elementos
     - Componentes React
     - Estilizando componentes com CSS
@@ -31,6 +31,7 @@
 ## Sobre mim
 
 Olá, me chamo Helen Zanco Neis, estudo e amo a área da tecnologia!
+
 
 
 
